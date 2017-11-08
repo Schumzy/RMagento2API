@@ -4,7 +4,7 @@
 # Give it access to the resources you need to handle through API
 # write the username and password
 
-require("jsonlite", "httr")
+
 library(jsonlite)
 library(httr)
 
